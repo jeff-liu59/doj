@@ -6,3 +6,6 @@ Doj was programmed using the game engine Godot, using GDScript, a language prima
 The game was developed over a 6 month process, following the style of the software development cycle, with logs, gantt charts, flow diagrams, and a feedback improvement loop.
 
 When the game is booted up, a log opens up that has several error messages. This is normal, and a result of my inexperience at the time.
+
+A zip file containing the game and its files can be downloaded here:
+https://drive.google.com/file/d/1A0c4ro6xASEBNZdwDHypMStghmssWeaO/view?usp=sharing
